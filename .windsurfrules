@@ -1,0 +1,6 @@
+comment every code with understandable word
+use SOLID principle
+make all code zero-lint errors
+use clean architecture
+optimize for performance
+always mention any changes in README.md
